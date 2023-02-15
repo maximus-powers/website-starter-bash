@@ -61,7 +61,7 @@ touch script.js`
 
 1. First you need to compile the script with this command
 
-`chmod u+x bashscript.sh`
+`chmod +x bashscript.sh`
 
 
 2. To run it, make sure you're in the same directory as the script, then type:
