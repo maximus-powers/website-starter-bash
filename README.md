@@ -1,6 +1,6 @@
 # Website Starter Bash Script
 
-Originally published on [Medium](put link here)
+Originally published on [Medium](https://medium.com/@maximuspowersdev/website-starter-bash-script-9cc95e7d67f2)
 
 I hate to admit it, but every time I start coding a new website, I start from scratch. It's time to change that.
 Normally I'd create a empty folder, add a few new files (e.g. index.html, style.css, and script.js), and spend 10 minutes typing out the HTML scaffolding for my site. 
